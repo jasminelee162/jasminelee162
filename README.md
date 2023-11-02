@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1556044893
-- 👀 I’m interested in music and 
+- 👀 I’m interested in many kinds of things. 
 - 🌱 I’m currently learning C++,although it is quite difficult,but I love and study hard.
 - 📫 I will sign up a public email soon,then we can communciate by it.
 
