@@ -5,6 +5,6 @@
 - ⚡ Fun fact: **I love piano!**
 
 ## 🛠 Skills
-- JavaScript | TypeScript | Python | Java
+- JavaScript | TypeScript | Python | Java | C++
 - React | Vue | Node.js
-- Git | Docker
+- Git 
